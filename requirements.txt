@@ -7,6 +7,6 @@ pandas==1.3.5
 scikit-image==0.19.3
 pytorch-lightning==1.6.5
 matplotlib==3.5.3
-scikit-learn==1.0.2
+scikit-learn==1.5.0
 pycytominer @ git+https://github.com/cytomining/pycytominer.git@aee7100407e5ebf674fcb44601a52e3d5b7c80bb
 seaborn==0.12.0
